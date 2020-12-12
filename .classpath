@@ -13,6 +13,6 @@
 	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SF2020/jars/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SF2020/jars/saxon-8.7.jar"/>
 	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SF2020/jars/SaxonLiaison.jar"/>
-	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SFWH/Jar/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="/Users/afsanakeya/Documents/Automation/SF2020/jars/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

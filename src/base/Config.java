@@ -17,7 +17,7 @@ public class Config extends WDFunctions {
 		getCurrentTime();
 	}
 
-	@Parameters("browser")
+	
 	@BeforeMethod
 	public void beforeEachTestMethod(String browser){
 		if (browser.equalsIgnoreCase("ch")){
